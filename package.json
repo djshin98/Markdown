@@ -7,6 +7,7 @@
     "devDependencies": {
         "del": "^5.1.0",
         "gulp": "^4.0.2",
+        "gulp-concat": "^2.6.1",
         "gulp-inject-string": "^1.1.2",
         "gulp-markdown": "^5.0.1"
     },
