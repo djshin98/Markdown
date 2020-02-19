@@ -1,0 +1,29 @@
+{
+    "name": "hello",
+    "version": "1.0.0",
+    "description": "This is the first line.\r And this is the second line.",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "del": "^5.1.0",
+        "gulp": "^4.0.2",
+        "gulp-inject-string": "^1.1.2",
+        "gulp-markdown": "^5.0.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/djshin98/Markdown.git"
+    },
+    "keywords": [
+        "markdown"
+    ],
+    "author": "djshin",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/djshin98/Markdown/issues"
+    },
+    "homepage": "https://github.com/djshin98/Markdown#readme"
+}
