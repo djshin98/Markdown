@@ -18,3 +18,9 @@ And this is the second line.
 $ npm install --save-dev gulp-markdown
 
 git config --global core.excludesfile ~/.gitignore_global
+
+touch gulpfile.js
+
+
+var { src , dest } = require("gulp");
+var markdown = require("gulp-markdown");
